@@ -1,0 +1,28 @@
+{
+  "name": "clear",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RubenSom20/kodemiaApiOctavaGeneracion.git"
+  },
+  "author": "Rubens",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RubenSom20/kodemiaApiOctavaGeneracion/issues"
+  },
+  "homepage": "https://github.com/RubenSom20/kodemiaApiOctavaGeneracion#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.24"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
